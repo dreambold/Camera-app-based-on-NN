@@ -1,0 +1,1 @@
+setupValues={'cam_id': '1', 'get_update': '0', 'capture_interval': '72005', 'poll_interval': '300', 'is_active': '1', 'client_id': '1', 'capture_asap': '0', 'light_on': '1'}

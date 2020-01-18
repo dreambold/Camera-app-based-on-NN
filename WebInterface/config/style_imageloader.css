@@ -1,0 +1,138 @@
+/* {
+	font-Family: "Arial", sans-serif;
+}
+
+body {
+	
+}
+*/
+
+div#container{
+	width:90%;
+	margin:auto;
+}
+
+label.h2 {
+	font-Family: "Arial", sans-serif;
+    font-weight: bold;
+    font-size: 3em;
+    width: 100%;
+    margin-bottom: 1em;
+    padding:1em;
+}
+label.formlabel {
+	font-Family: "Arial", sans-serif;
+    font-weight: bold;
+    font-size: 2em;
+    width: 100%;
+    margin-bottom: 1em;
+    padding:1em;
+}
+
+
+input {
+    margin: 0 0 1em .2em;
+    padding: .2em .5em;
+    background-color: #fff;
+    border: 1px solid #0f0f0f;
+    font-size: 2em;
+}
+
+button {
+	font-size: 2em; 
+}
+
+.image_browser_menu { 
+	display:block; 
+	text-align:left; 
+	width:90%; 
+}
+.image_browser_menu_item { 
+	width:3em; 
+}
+.image_browser_menu_label { 
+	width:20%; 
+}
+
+div#title {
+	font-weight:700;
+	font-size:1.8em;
+	text-align:center;
+	padding:1em;
+}
+div#subtitle {
+	font-weight:400;
+	font-size:1.3em;
+	text-align:center;
+	padding:1em;
+	color:#ff0000;
+}
+div.question {
+	border: 1px solid #000;
+	border-radius:0.5em;
+	margin:1em auto 1em auto;
+	text-align:center;
+	font-size:1.4em;
+	font-weight:bold;
+	padding:1em;
+}
+a.buttonlink {
+	font-Family: "Arial", sans-serif;
+	font-size: 3em;
+	font-weight: bold;
+	text-decoration:none;
+	color:black;
+}
+div.button{
+	border: 1px solid #000;
+	padding:0.3em;
+}
+.buttontitle{
+	font-size:1.2em;
+	font-weight:bold;
+}
+.buttonexplain{
+	font-size:1.0em;
+	font-weight:normal;
+}
+
+.button:hover{
+	background-color:#d3d3d3;
+}
+div.section{
+	border: 1px solid #000;
+	margin:0.6em;
+	padding:1em;
+	/*overflow:auto;*/
+	background-color:#f0f0f0;
+}
+
+.full{
+	width:95%;
+	margin:1%;
+	overflow:auto;
+}
+.half{
+	width:47%;
+	float:left;
+	padding:0.6em;
+}
+.third{
+	width:26%;
+	margin:1%;
+	float:left;
+	padding:0.6em;
+}
+.quarter{
+	width:23%;
+	margin:1%;
+	float:left;
+}
+.fifth{
+	width:14%;
+	margin:0.3%;
+	float:left;
+}
+.thumbnail{
+	width:100%;
+}

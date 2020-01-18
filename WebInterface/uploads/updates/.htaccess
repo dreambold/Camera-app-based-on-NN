@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password needed..."
+AuthUserFile /home/projects/.htpasswd
+require valid-user 

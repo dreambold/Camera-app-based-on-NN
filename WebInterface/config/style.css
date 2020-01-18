@@ -1,0 +1,95 @@
+* {
+	font-Family: "Arial", sans-serif;
+}
+
+body {
+	
+}
+
+div#container{
+	width:90%;
+	margin:auto;
+	padding-top:2em;
+}
+div#title {
+	font-weight:700;
+	font-size:1.8em;
+	text-align:center;
+	padding:1em;
+}
+div#subtitle {
+	font-weight:400;
+	font-size:1.3em;
+	text-align:center;
+	padding:1em;
+	color:#ff0000;
+}
+div.question {
+	border: 1px solid #000;
+	border-radius:0.5em;
+	margin:1em auto 1em auto;
+	text-align:center;
+	font-size:1.4em;
+	font-weight:bold;
+	padding:1em;
+}
+div.button{
+	border: 1px solid #000;
+	border-radius:0.5em;
+	padding:1.3em;
+	
+}
+.buttontitle{
+	font-size:1.2em;
+	font-weight:bold;
+}
+.buttonexplain{
+	font-size:1.0em;
+	font-weight:normal;
+}
+
+.button:hover{
+	background-color:#d3d3d3;
+}
+div.section{
+	border: 1px solid #000;
+	border-radius:0.5em;
+	margin:0.6em;
+	padding:1.5%;
+	overflow:auto;
+	background-color:#f0f0f0;
+}
+a.buttonlink {
+	text-decoration:none;
+	color:black;
+}
+
+.full{
+	width:90%;
+	margin:1%;
+	overflow:auto;
+}
+.half{
+	width:47%;
+	float:left;
+	padding:0.6em;
+}
+.third{
+	width:26%;
+	margin:1%;
+	float:left;
+	padding:0.6em;
+}
+.quarter{
+	width:23%;
+	margin:1%;
+	float:left;
+}
+.fifth{
+	width:14%;
+	margin:0.3%;
+	float:left;
+}
+.thumbnail{
+	width:100%;
+}
